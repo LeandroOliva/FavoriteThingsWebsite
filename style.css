@@ -1,3 +1,26 @@
 *{
     text-align: center;
 }
+.abc {
+    height: 600px;
+    width: 800px;
+}
+body {
+    background-image: url("https://ak9.picdn.net/shutterstock/videos/17372809/thumb/1.jpg");
+  
+}
+h2 {
+    color: navajowhite;
+    background-image: url("http://dpsystems.ie/wp-content/uploads/2017/07/paint-banner.png");
+    background-size:300px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h1 {
+    color: lightgrey;
+    background-image: url("http://dpsystems.ie/wp-content/uploads/2017/07/paint-banner.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: inherit;
+    background-size: 500px;
+}
