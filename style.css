@@ -5,10 +5,18 @@
     height: 500px;
     width: 600px;
 }
-body {
-    background-image: url("http://bumdes.id/wp-content/uploads/2018/09/uu.png?x91910");
-  
+
+.video{
+    z-index:-100;
+    width:100%;
+    height:100%;
+    position:fixed;
+    top:10%;
+    left:50%;
+    transform: translateX(-50%) translateY(-10%);
+
 }
+
 h2 {
     color: navajowhite;
     background-image: url("http://dpsystems.ie/wp-content/uploads/2017/07/paint-banner.png");
@@ -16,6 +24,7 @@ h2 {
     background-position: center;
     background-repeat: no-repeat;
 }
+
 h1 {
     color: lightgrey;
     background-image: url("http://dpsystems.ie/wp-content/uploads/2017/07/paint-banner.png");
